@@ -18,6 +18,6 @@ public class RecursoDigital extends RecursoPro {
 
     @Override
     public String toString() {
-        return "Digital | " + getTitulo() + " (" + getAnioPublicacion() + ") | URL: " + urlAcceso + " | Solo consulta en sala";
+        return "Digital | " + getTitulo() + " (" + getAñoPublicacion() + ") | URL: " + urlAcceso + " | Solo consulta en sala";
     }
 }
